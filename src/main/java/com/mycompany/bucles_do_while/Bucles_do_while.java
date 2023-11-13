@@ -1,6 +1,6 @@
 package com.mycompany.bucles_do_while;
 
-/*edito desde github y pongo otro comentario 
+/*edito desde github y pongo otro comentario desde
 creo un comentario
 de dos líneas */
 import java.util.Scanner;
