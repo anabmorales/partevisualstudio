@@ -2,7 +2,7 @@ package com.mycompany.bucles_do_while;
 
 /*edito desde github y pongo otro comentario 
 creo un comentario 
-de dos líneas */
+de dos líneas, esto era desde local */
 import java.util.Scanner;
 public class Bucles_do_while {
 
